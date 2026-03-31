@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TaskFlow Daily Privacy Policy</title>
+
+<style>
+body {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  line-height: 1.6;
+  background: #f9f9f9;
+}
+.container {
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+}
+h1 { color: #2c3e50; }
+h2 { margin-top: 20px; }
+</style>
+
+</head>
+
+<body>
+<div class="container">
+
+<h1>Privacy Policy</h1>
+
+<p><strong>Effective Date:</strong> 31 March 2026</p>
+<p><strong>App:</strong> TaskFlow Daily</p>
+<p><strong>Developer:</strong> Kaushal Sadhu</p>
+
+<p>This app helps users manage daily tasks and reminders.</p>
+
+<h2>1. Information</h2>
+<p>No personal data is collected. All data is stored locally on your device.</p>
+
+<h2>2. Notifications</h2>
+<p>The app uses local notifications to remind you about tasks.</p>
+
+<h2>3. Permissions</h2>
+<ul>
+<li>Notifications</li>
+<li>Alarm permission</li>
+<li>Storage (only for import/export)</li>
+</ul>
+
+<h2>4. Data Storage</h2>
+<p>All data stays on your device. No server is used.</p>
+
+<h2>5. Third Party</h2>
+<p>No third-party services are used.</p>
+
+<h2>6. Contact</h2>
+<p>Email: kaushalsadhu1991@gmail.com</p>
+
+</div>
+</body>
+</html>
